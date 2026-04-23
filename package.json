@@ -2,7 +2,7 @@
   "name": "@velocity-bpa/n8n-nodes-ondo-finance",
   "version": "1.0.0",
   "description": "n8n community node for Ondo Finance - tokenized real-world assets and DeFi protocols",
-  "license": "bsl-catalog",
+  "license": "SEE LICENSE IN LICENSE.md",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
@@ -24,7 +24,7 @@
     "@typescript-eslint/eslint-plugin": "^7.0.0",
     "@typescript-eslint/parser": "^7.0.0",
     "eslint": "^8.0.0",
-    "n8n-workflow": "*",
+    "n8n-workflow": "1.57.0",
     "prettier": "^3.0.0",
     "typescript": "^5.0.0"
   },
